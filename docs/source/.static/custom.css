@@ -1,5 +1,6 @@
 /* Added code to display tables without horizontal scrollbars */
-.wy-table-responsive table td, .wy-table-responsive table th {
+.wy-table-responsive table.docutils td, .wy-table-responsive table.docutils th {
     white-space: pre-wrap !important;
     line-height: 10pt !important;
 }
+
