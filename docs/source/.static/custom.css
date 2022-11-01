@@ -1,7 +1,8 @@
 /* Added code to display tables without horizontal scrollbars */
 .wy-table-responsive table td, .wy-table-responsive table th {
     white-space: pre-wrap !important;
-    word-break: break-all;
-    line-height: 10pt;
 }
 
+.wy-table-responsive td div {
+    line-height: 10pt;
+}
