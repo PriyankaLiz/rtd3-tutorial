@@ -73,26 +73,26 @@ parsley You can add it if required for a more flavoursome experience.
     * - Ingredient
       - Veg or Non-Veg
       - Mandatory or not
-    * - parsley TESTING WITH DIV ELEMENT
+    * - parsley TESTING WITH LINE HEIGHT
 
         You can add it if required for a more flavoursome experience.
       - veg.
-        TESTING WITH DIV ELEMENT
+        TESTING WITH LINE HEIGHT
 
         You can add it if required for a more flavoursome experience.
       - Not mandatory.
 
-        TESTING WITH DIV ELEMENT
+        TESTING WITH LINE HEIGHT
 
         - You can add it if required for a more flavoursome experience.
         - You can add it if required for a more flavoursome experience.
-    * - thyme TESTING WITH DIV ELEMENT
+    * - thyme TESTING WITH LINE HEIGHT
 
         You can add it if required for a more flavoursome experience. You
         can add it if required for a more flavoursome experience.
       - veg
 
-        TESTING WITH DIV ELEMENT
+        TESTING WITH LINE HEIGHT
       - Yes
 
         You can add it if required for a more flavoursome experience.
@@ -113,5 +113,7 @@ parsley You can add it if required for a more flavoursome experience.
       - Veg or Non-Veg
       - Mandatory or not
     * - parsley You can add it if required for a more flavoursome experience.
-      - veg. You can add it if required for a more flavoursome experience.
-      - Not mandatory. You can add it if required for a more flavoursome experience.
+      - veg.
+        You can add it if required for a more flavoursome experience.
+      - Not mandatory.
+        You can add it if required for a more flavoursome experience.
