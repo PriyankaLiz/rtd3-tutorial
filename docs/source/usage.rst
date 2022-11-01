@@ -84,13 +84,12 @@ parsley You can add it if required for a more flavoursome experience.
 
         TESTING WITH DIV ELEMENT
 
-        You can add it if required for a more flavoursome experience.
-        You can add it if required for a more flavoursome experience.
+        - You can add it if required for a more flavoursome experience.
+        - You can add it if required for a more flavoursome experience.
     * - thyme TESTING WITH DIV ELEMENT
 
-        You can add it if required for a more flavoursome experience.
-
-        You can add it if required for a more flavoursome experience.
+        You can add it if required for a more flavoursome experience. You
+        can add it if required for a more flavoursome experience.
       - veg
 
         TESTING WITH DIV ELEMENT
@@ -99,7 +98,12 @@ parsley You can add it if required for a more flavoursome experience.
         You can add it if required for a more flavoursome experience.
         You can add it if required for a more flavoursome experience.
 
-        You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
+        You can add it if required for a more flavoursome experience. You can
+        add it if required for a more flavoursome experience.
+
+        .. code-block:: javascript
+
+          int x, int y;
 
 .. list-table:: Ingredients Not to be used
     :header-rows: 1
