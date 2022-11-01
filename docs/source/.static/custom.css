@@ -4,7 +4,7 @@
 }
 
 /*Added code to correct the font size of bullets in a table */
-.wy-table-responsive table td p{
+.wy-table-responsive table td ul li p{
     font-size: 11pt;
 }
 
