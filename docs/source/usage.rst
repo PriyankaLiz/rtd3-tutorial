@@ -73,12 +73,10 @@ parsley You can add it if required for a more flavoursome experience.
     * - Ingredient
       - Veg or Non-Veg
       - Mandatory or not
-    * - parsley TEST DOUBLE SPACE
-
+    * - parsley TEST White Space Property
 
         You can add it if required for a more flavoursome experience.
       - veg.
-
         You can add it if required for a more flavoursome experience.
       - Not mandatory.
 
