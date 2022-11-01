@@ -1,15 +1,8 @@
 /* Added code to display tables without horizontal scrollbars */
 .wy-table-responsive table td, .wy-table-responsive table th {
-    /* white-space: normal; */
-    line-height: 10pt;
+    white-space: pre-wrap !important;
 }
 
-/*Added code to correct the font size of bullets in a table */
-.wy-table-responsive table td ul li p{
-    font-size: 11pt;
-}
-
-/* Testing on Div element
 .wy-table-responsive td div {
     line-height: 10pt;
-}*/
+}
