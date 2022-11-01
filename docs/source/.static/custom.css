@@ -4,5 +4,6 @@
 }
 
 .wy-table-responsive {
+    white-space: inherit;
     line-height: 20pt !important;
 }
