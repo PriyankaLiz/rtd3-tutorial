@@ -3,6 +3,7 @@
     white-space: pre-wrap !important;
 }
 
+/* Testing on Div element */
 .wy-table-responsive td div {
-    line-height: 10pt;
+    line-height: 20pt;
 }
