@@ -73,7 +73,7 @@ parsley You can add it if required for a more flavoursome experience.
     * - Ingredient
       - Veg or Non-Veg
       - Mandatory or not
-    * - parsley TEST White Space Property
+    * - parsley TEST Word break property
 
         You can add it if required for a more flavoursome experience.
       - veg.
